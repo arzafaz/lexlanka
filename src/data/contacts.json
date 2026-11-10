@@ -1,0 +1,9 @@
+[
+  {"id":1,"name":"Police Emergency","number":"119","description":"Report crimes and emergencies"},
+  {"id":2,"name":"Ambulance (Suwa Seriya)","number":"1990","description":"Free emergency ambulance service"},
+  {"id":3,"name":"Fire & Rescue","number":"110","description":"Fire and rescue emergencies"},
+  {"id":4,"name":"Women & Children Helpline","number":"1938","description":"Support for domestic violence and abuse"},
+  {"id":5,"name":"Child Protection Authority","number":"1929","description":"Report child abuse or neglect"},
+  {"id":6,"name":"Consumer Affairs Authority","number":"1977","description":"Consumer complaints and price violations"},
+  {"id":7,"name":"Government Information Centre","number":"1919","description":"General government information"}
+]

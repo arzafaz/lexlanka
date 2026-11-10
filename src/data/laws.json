@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "category": "Consumer",
+    "title": "Price marking and overcharging",
+    "act": "Consumer Affairs Authority Act No. 9 of 2003",
+    "summary": "Traders must display prices for goods and may not sell above the marked or controlled price.",
+    "keyPoints": [
+      "Prices must be clearly displayed",
+      "Selling above the marked price is an offence",
+      "Complaints can be made to the Consumer Affairs Authority"
+    ],
+    "penalty": "Fines and, in some cases, imprisonment under the Act. Verify current amounts.",
+    "example": "A shop charges Rs. 50 above the printed price on a packet. You can complain to the CAA hotline 1977."
+  },
+  {
+    "id": 2,
+    "category": "Consumer",
+    "title": "Rights over defective goods",
+    "act": "Consumer Affairs Authority Act No. 9 of 2003",
+    "summary": "Consumers can seek a remedy when goods or services are defective or not as described.",
+    "keyPoints": [
+      "Keep your receipt as proof",
+      "Ask for a repair, replacement or refund",
+      "Escalate to the CAA if the seller refuses"
+    ],
+    "penalty": "Remedies depend on the case: refund, replacement, or CAA action against the trader.",
+    "example": "A phone stops working in two days. Show the receipt and request a replacement or refund."
+  },
+  {
+    "id": 3,
+    "category": "Traffic",
+    "title": "Carrying a valid driving licence",
+    "act": "Motor Traffic Act No. 14 of 1951",
+    "summary": "A driver must hold a valid licence for the class of vehicle and produce it when asked by police.",
+    "keyPoints": [
+      "Licence must match the vehicle class",
+      "Carry the licence and vehicle documents",
+      "Expired or missing licences can lead to fines"
+    ],
+    "penalty": "Fine on conviction or on-the-spot fine procedure. Verify current amounts.",
+    "example": "A police officer stops you at a checkpoint and asks for your licence. You must present it."
+  },
+  {
+    "id": 4,
+    "category": "Traffic",
+    "title": "Drink driving",
+    "act": "Motor Traffic Act No. 14 of 1951",
+    "summary": "Driving under the influence of alcohol or drugs is a serious offence.",
+    "keyPoints": [
+      "Police may test drivers",
+      "Licence can be suspended",
+      "Applies to all vehicle types"
+    ],
+    "penalty": "Fine, imprisonment, and possible licence suspension or disqualification.",
+    "example": "A driver is tested after a minor collision and found over the limit. He can be charged in court."
+  },
+  {
+    "id": 5,
+    "category": "Labour",
+    "title": "EPF and ETF contributions",
+    "act": "Employees' Provident Fund Act No. 15 of 1958 and Employees' Trust Fund Act No. 46 of 1980",
+    "summary": "Employers must contribute to the EPF and ETF for eligible employees.",
+    "keyPoints": [
+      "Employer contributes 12% to EPF and employee 8%",
+      "Employer contributes 3% to ETF",
+      "You can check your balance with the Central Bank / ETF Board"
+    ],
+    "penalty": "Employers who fail to pay can face surcharges and legal action by the Labour Department.",
+    "example": "Your employer deducts EPF from your salary but does not remit it. You can complain to the Labour Department."
+  },
+  {
+    "id": 6,
+    "category": "Labour",
+    "title": "Maternity leave",
+    "act": "Maternity Benefits Ordinance",
+    "summary": "Women employees are entitled to paid maternity leave.",
+    "keyPoints": [
+      "84 working days for the first two living children",
+      "Shorter period for later children",
+      "Employer must not dismiss for pregnancy"
+    ],
+    "penalty": "Employers who breach it can be prosecuted. Verify details for your sector.",
+    "example": "A private-sector employee is denied leave for her second child. She can report to the Labour Department."
+  },
+  {
+    "id": 7,
+    "category": "Property",
+    "title": "Transfer of land requires a notarial deed",
+    "act": "Prevention of Frauds Ordinance No. 7 of 1840",
+    "summary": "A sale or transfer of land must be in writing and executed before a Notary Public and witnesses.",
+    "keyPoints": [
+      "Verbal agreements are not enough",
+      "Register the deed at the Land Registry",
+      "Check the title before buying"
+    ],
+    "penalty": "An improperly executed transfer may be invalid and unenforceable.",
+    "example": "A buyer pays for land on a handwritten note only. The transfer is at risk of being void without a notarial deed."
+  },
+  {
+    "id": 8,
+    "category": "Property",
+    "title": "Ownership by long possession",
+    "act": "Prescription Ordinance No. 22 of 1871",
+    "summary": "Uninterrupted and adverse possession of immovable property for ten years can give rights of ownership.",
+    "keyPoints": [
+      "Possession must be continuous and without the owner's consent",
+      "Applies to immovable property",
+      "A court must usually declare the title"
+    ],
+    "penalty": "No penalty. The remedy is a court declaration of title.",
+    "example": "A family farms a plot openly for over ten years while the owner never objects. They may claim title by prescription."
+  },
+  {
+    "id": 9,
+    "category": "Cyber",
+    "title": "Unauthorized access to computers",
+    "act": "Computer Crimes Act No. 24 of 2007",
+    "summary": "Accessing a computer or account without authority is a criminal offence.",
+    "keyPoints": [
+      "Hacking and password theft are covered",
+      "Spreading data obtained illegally is an offence",
+      "Report to the police or SL CERT"
+    ],
+    "penalty": "Fine and imprisonment depending on the offence.",
+    "example": "A student logs into a friend's social media account without permission and posts messages. This may be an offence."
+  },
+  {
+    "id": 10,
+    "category": "Cyber",
+    "title": "Personal data rights",
+    "act": "Personal Data Protection Act No. 9 of 2022",
+    "summary": "Individuals have rights over how organizations collect and use their personal data.",
+    "keyPoints": [
+      "Right to access your data",
+      "Right to correct inaccurate data",
+      "Organizations must process data lawfully"
+    ],
+    "penalty": "Penalties are imposed by the Data Protection Authority. Check implementation status.",
+    "example": "A company collects your details for one purpose and sells them. You can complain to the authority."
+  },
+  {
+    "id": 11,
+    "category": "Family",
+    "title": "Maintenance for spouse and children",
+    "act": "Maintenance Act No. 37 of 1999",
+    "summary": "Parents and spouses may be required to provide financial maintenance, claimed in the Magistrate's Court.",
+    "keyPoints": [
+      "Children are entitled to maintenance",
+      "Application is made to the Magistrate's Court",
+      "Court sets the amount based on needs and means"
+    ],
+    "penalty": "Non-payment of a court order can lead to enforcement and imprisonment.",
+    "example": "A father stops supporting his child after separation. The mother can apply for a maintenance order."
+  },
+  {
+    "id": 12,
+    "category": "Family",
+    "title": "Protection from domestic violence",
+    "act": "Prevention of Domestic Violence Act No. 34 of 2005",
+    "summary": "Victims of domestic violence can apply for a protection order from the Magistrate's Court.",
+    "keyPoints": [
+      "Covers physical and emotional harm",
+      "Protection orders can bar the abuser from the home",
+      "Police can assist in urgent situations"
+    ],
+    "penalty": "Breach of a protection order is an offence leading to fine or imprisonment.",
+    "example": "A woman is repeatedly threatened at home. She can approach the police or court for a protection order."
+  },
+  {
+    "id": 13,
+    "category": "Citizen Rights",
+    "title": "Right to Information",
+    "act": "Right to Information Act No. 12 of 2016",
+    "summary": "Citizens can request information held by public authorities.",
+    "keyPoints": [
+      "Submit a written request to the Information Officer",
+      "A response is due within 14 working days",
+      "Appeal to the RTI Commission if refused"
+    ],
+    "penalty": "Officers who refuse without a valid reason may face penalties.",
+    "example": "You request details of a public school's fund use. The authority must respond or give a lawful reason."
+  }
+]

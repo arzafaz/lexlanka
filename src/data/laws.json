@@ -180,5 +180,19 @@
     ],
     "penalty": "Officers who refuse without a valid reason may face penalties.",
     "example": "You request details of a public school's fund use. The authority must respond or give a lawful reason."
+  },
+    {
+    "id": 14,
+    "category": "Traffic",
+    "title": "Helmets for motorcyclists",
+    "act": "Motor Traffic Act No. 14 of 1951 and its regulations",
+    "summary": "Riders and pillion passengers on motorcycles must wear a protective helmet.",
+    "keyPoints": [
+      "Applies to the rider and the pillion passenger",
+      "The helmet must be worn properly",
+      "Police can fine riders without a helmet"
+    ],
+    "penalty": "Fine on conviction. Verify the current amount.",
+    "example": "A rider is stopped at a checkpoint without a helmet. He can be fined."
   }
 ]

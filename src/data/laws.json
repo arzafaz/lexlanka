@@ -181,7 +181,7 @@
     "penalty": "Officers who refuse without a valid reason may face penalties.",
     "example": "You request details of a public school's fund use. The authority must respond or give a lawful reason."
   },
-    {
+  {
     "id": 14,
     "category": "Traffic",
     "title": "Helmets for motorcyclists",
@@ -194,5 +194,229 @@
     ],
     "penalty": "Fine on conviction. Verify the current amount.",
     "example": "A rider is stopped at a checkpoint without a helmet. He can be fined."
+  },
+  {
+    "id": 15,
+    "category": "Consumer",
+    "title": "Misleading advertisements",
+    "act": "Consumer Affairs Authority Act No. 9 of 2003",
+    "summary": "Traders must not use false or misleading claims when advertising or selling goods and services.",
+    "keyPoints": [
+      "Claims about quality, price or origin must be true",
+      "Consumers can complain to the Consumer Affairs Authority",
+      "Keep a copy or photo of the advertisement as evidence"
+    ],
+    "penalty": "Penalties under the Act, which may include fines. Verify current amounts.",
+    "example": "A shop advertises a 50% discount but the item was never sold at the higher price. You can complain to the CAA."
+  },
+  {
+    "id": 16,
+    "category": "Consumer",
+    "title": "Expiry dates and unsafe food",
+    "act": "Consumer Affairs Authority Act No. 9 of 2003 and Food Act No. 26 of 1980",
+    "summary": "Packaged food must carry proper labelling, and selling expired or unfit food is an offence.",
+    "keyPoints": [
+      "Check the manufacture and expiry dates before buying",
+      "Food sold must be fit for human consumption",
+      "Report to the Public Health Inspector or the CAA"
+    ],
+    "penalty": "Fines or imprisonment under the Acts, depending on the offence. Verify current amounts.",
+    "example": "You find expired biscuits on a shop shelf. You can report the shop to the Public Health Inspector."
+  },
+  {
+    "id": 17,
+    "category": "Traffic",
+    "title": "Seat belts",
+    "act": "Motor Traffic Act No. 14 of 1951 and its regulations",
+    "summary": "Seat belts are required for people in the front seats of motor cars, and the rules can extend to other seats.",
+    "keyPoints": [
+      "Driver and front passenger must wear a seat belt",
+      "Rules can change, so check current regulations",
+      "Children should be properly restrained"
+    ],
+    "penalty": "Fine on conviction. Verify the current amount and rules.",
+    "example": "A driver is stopped by police with the front passenger not wearing a seat belt. Both may be fined."
+  },
+  {
+    "id": 18,
+    "category": "Traffic",
+    "title": "Using a mobile phone while driving",
+    "act": "Motor Traffic Act No. 14 of 1951 and its regulations",
+    "summary": "Using a hand-held mobile phone while driving is prohibited because it distracts the driver.",
+    "keyPoints": [
+      "Hands-free use is treated differently, so check the rule",
+      "Applies to cars, motorcycles and other vehicles",
+      "Pull over safely to use the phone"
+    ],
+    "penalty": "Fine on conviction. Verify the current amount.",
+    "example": "A bus driver is seen holding a phone to his ear while driving. He can be fined."
+  },
+  {
+    "id": 19,
+    "category": "Traffic",
+    "title": "Duty after a road accident",
+    "act": "Motor Traffic Act No. 14 of 1951",
+    "summary": "A driver involved in an accident must stop, help any injured person and report to the police.",
+    "keyPoints": [
+      "Do not leave the scene",
+      "Give your details to the other party and the police",
+      "Report the accident at the nearest police station"
+    ],
+    "penalty": "Failing to stop or report is an offence leading to fine or imprisonment.",
+    "example": "A motorist hits a pedestrian lightly and drives away. This is a serious offence."
+  },
+  {
+    "id": 20,
+    "category": "Labour",
+    "title": "Gratuity",
+    "act": "Payment of Gratuity Act No. 12 of 1983",
+    "summary": "Employees who complete five years of continuous service are entitled to gratuity when they leave the job.",
+    "keyPoints": [
+      "Minimum five years of service",
+      "Calculated as half a month's wage for each year of service",
+      "Applies to workplaces covered by the Act"
+    ],
+    "penalty": "Employers who refuse to pay can be pursued through the Labour Department.",
+    "example": "A worker resigns after eight years and the employer refuses to pay. He can complain to the Labour Department."
+  },
+  {
+    "id": 21,
+    "category": "Labour",
+    "title": "Termination of employment",
+    "act": "Termination of Employment of Workmen (Special Provisions) Act No. 45 of 1971",
+    "summary": "Employers of a certain size cannot terminate workers freely and need the worker's consent or approval from the Commissioner of Labour.",
+    "keyPoints": [
+      "Applies to larger employers, so check the threshold in the Act",
+      "A worker can complain to the Labour Department",
+      "Possible remedy is reinstatement or compensation"
+    ],
+    "penalty": "Remedies are ordered by the Commissioner of Labour or the Labour Tribunal.",
+    "example": "A factory worker is dismissed without notice or reason. He can complain to the Labour Department."
+  },
+  {
+    "id": 22,
+    "category": "Labour",
+    "title": "Sexual harassment at work",
+    "act": "Penal Code (Section 345)",
+    "summary": "Sexual harassment, including unwelcome sexual comments or touching, is a criminal offence.",
+    "keyPoints": [
+      "Applies in workplaces and public places",
+      "Report to the police and to your employer",
+      "Keep records of messages and incidents"
+    ],
+    "penalty": "Imprisonment and/or fine, and the court may order compensation. Verify details.",
+    "example": "A manager repeatedly sends inappropriate messages to a junior colleague. She can complain to the police."
+  },
+  {
+    "id": 23,
+    "category": "Property",
+    "title": "Rights of tenants",
+    "act": "Rent Act No. 7 of 1972",
+    "summary": "A landlord cannot simply throw a tenant out. Eviction needs a lawful process through the courts.",
+    "keyPoints": [
+      "Keep rent receipts and the written agreement",
+      "The Act covers certain premises, so check coverage",
+      "A court order is usually required for eviction"
+    ],
+    "penalty": "The remedy is through the courts. Illegal eviction can lead to legal action.",
+    "example": "A landlord changes the locks while the tenant is at work. The tenant can seek legal advice and go to court."
+  },
+  {
+    "id": 24,
+    "category": "Property",
+    "title": "Registering a deed",
+    "act": "Registration of Documents Ordinance",
+    "summary": "Deeds about land should be registered at the Land Registry to protect the buyer's rights.",
+    "keyPoints": [
+      "Registration protects your priority over later buyers",
+      "Use the correct folio and extent when registering",
+      "Always get a title search done before buying"
+    ],
+    "penalty": "No penalty. Failing to register can cost you your rights to the land.",
+    "example": "Two people are sold the same land by one seller. The deed registered first usually has priority."
+  },
+  {
+    "id": 25,
+    "category": "Cyber",
+    "title": "Electronic documents and signatures",
+    "act": "Electronic Transactions Act No. 19 of 2006",
+    "summary": "Electronic records and electronic signatures can be legally valid, like paper documents.",
+    "keyPoints": [
+      "Supports online contracts and e-records",
+      "Keep digital copies as evidence",
+      "Some documents may still need paper form"
+    ],
+    "penalty": "No direct penalty. The Act gives legal recognition to electronic transactions.",
+    "example": "You accept a work offer by email. The email can serve as evidence of the agreement."
+  },
+  {
+    "id": 26,
+    "category": "Cyber",
+    "title": "Copyright and copying work",
+    "act": "Intellectual Property Act No. 36 of 2003",
+    "summary": "Original works such as writing, software and music are protected, and copying them without permission is infringement.",
+    "keyPoints": [
+      "Copyright arises automatically when a work is created",
+      "Credit and permission matter when using others' work",
+      "Applies to software and online content"
+    ],
+    "penalty": "Civil remedies and criminal penalties under the Act. Verify details.",
+    "example": "A student copies another student's software project and submits it as his own. This can be copyright infringement."
+  },
+  {
+    "id": 27,
+    "category": "Family",
+    "title": "Registering a marriage",
+    "act": "Marriage Registration Ordinance",
+    "summary": "Under the general law, marriages must be registered, and the minimum age to marry is 18. Muslim marriages follow the Muslim Marriage and Divorce Act.",
+    "keyPoints": [
+      "A marriage certificate is proof of marriage",
+      "Registration is done through the Registrar",
+      "Different laws apply to different communities"
+    ],
+    "penalty": "A marriage that breaks the legal requirements may be invalid. Verify details.",
+    "example": "A couple completes a ceremony but never registers. They may later struggle to prove the marriage."
+  },
+  {
+    "id": 28,
+    "category": "Family",
+    "title": "Compulsory education",
+    "act": "Education Ordinance No. 1 of 1939",
+    "summary": "Children between the ages of 5 and 14 are required to attend school.",
+    "keyPoints": [
+      "Parents are responsible for sending children to school",
+      "Free education is provided in government schools",
+      "Report out-of-school children to the Education Office"
+    ],
+    "penalty": "Parents who fail to comply can face action under the law. Verify details.",
+    "example": "A 10-year-old is kept at home to work. The family can be directed to ensure school attendance."
+  },
+  {
+    "id": 29,
+    "category": "Citizen Rights",
+    "title": "Rights when arrested",
+    "act": "Constitution of Sri Lanka (Article 13)",
+    "summary": "A person who is arrested has the right to be told the reason and to be brought before a judge according to law.",
+    "keyPoints": [
+      "You have the right to know why you are arrested",
+      "You must be produced before a judge as required by law",
+      "You have the right to a lawyer of your choice"
+    ],
+    "penalty": "Unlawful arrest or detention can be challenged in court.",
+    "example": "A man is held at a police station for days with no explanation. His family can seek help from a lawyer."
+  },
+  {
+    "id": 30,
+    "category": "Citizen Rights",
+    "title": "Petitioning for fundamental rights",
+    "act": "Constitution of Sri Lanka (Article 126)",
+    "summary": "If a fundamental right is infringed by the State, a person can petition the Supreme Court, usually within one month.",
+    "keyPoints": [
+      "Applies to actions by the State or its officers",
+      "The time limit is short, so act quickly",
+      "A lawyer's help is strongly advised"
+    ],
+    "penalty": "The Supreme Court can grant relief and compensation.",
+    "example": "A public officer unlawfully refuses a person's rights. The person can file a petition within one month."
   }
 ]
